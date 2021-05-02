@@ -1,6 +1,6 @@
-package all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference.delegates
+package preference.delegates
 
-import all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference.IntEnum
+import preference.IntEnum
 import android.content.SharedPreferences
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
