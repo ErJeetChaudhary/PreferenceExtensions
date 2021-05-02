@@ -1,4 +1,4 @@
-package all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference.delegates
+package preference.delegates
 
 import android.content.SharedPreferences
 import kotlin.properties.ReadWriteProperty
