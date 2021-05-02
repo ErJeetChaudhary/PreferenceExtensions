@@ -1,7 +1,7 @@
-package all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference
+package preference
 
-import all.video.allvideodownloader.freevideodownloader.hddownloaderapp.di.DevPrefs
-import all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference.delegates.booleanPreference
+import di.DevPrefs
+import preference.delegates.booleanPreference
 import android.content.SharedPreferences
 import javax.inject.Inject
 import javax.inject.Singleton
