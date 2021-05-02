@@ -1,7 +1,7 @@
-package all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference
+package preference
 
-import all.video.allvideodownloader.freevideodownloader.hddownloaderapp.constant.DESKTOP_USER_AGENT
-import all.video.allvideodownloader.freevideodownloader.hddownloaderapp.constant.MOBILE_USER_AGENT
+import constant.DESKTOP_USER_AGENT
+import constant.MOBILE_USER_AGENT
 import android.app.Application
 import android.webkit.WebSettings
 
