@@ -1,4 +1,4 @@
-package all.video.allvideodownloader.freevideodownloader.hddownloaderapp.preference
+package preference
 
 /**
  * An enum value that has an integer representation.
